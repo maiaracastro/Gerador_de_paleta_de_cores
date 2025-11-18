@@ -1,0 +1,7 @@
+[Análoga] - #2DE5BD, #2DB1E5, #2D55E5
+[Análoga] - #2DE5E4, #2D8AE5, #2D2FE5
+[Análoga] - #E5B22D, #BCE52D, #60E52D
+[Complementar] - #E5322D, #2DE1E5
+[Triádica] - #E52D82, #82E52D, #2D82E5
+[Triádica] - #2DE5BD, #BD2DE5, #E5BD2D
+[Análoga] - #2D49E5, #6D2DE5, #C92DE5
